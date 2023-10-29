@@ -41,3 +41,11 @@ The notebooks are numbered, to indicate the order in which they should be execut
 
 Order of execution:
 
+![image](https://github.com/odifentse/Computational-FBDD-for-Hypertension/assets/81362965/8981f2f3-b73b-4d2a-9007-5ef48240d2cc)
+
+### Note:
+Change all references to the file path to your directory where your respective folders are stored. 
+
+Example: The path used on our machine was "/Users/odilehasa/Hypertension/Final_Experiments/FINAL - October/Output"
+
+Rename the path to indicate the location of your "Output" folder on your computer. Do the same for the Data folder. 
