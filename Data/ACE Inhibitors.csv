@@ -1,0 +1,16 @@
+,Molecule Name,ATC Code,Class,Canonical SMILES
+1,Enalaprilat,C09A,ACE Inhibitors,C[C@H](N[C@@H](CCc1ccccc1)C(=O)O)C(=O)N1CCC[C@H]1C(=O)O.O.O
+3,Rescinnamine,C09A,ACE Inhibitors,COC(=O)[C@H]1[C@H]2C[C@@H]3c4[nH]c5cc(OC)ccc5c4CCN3C[C@H]2C[C@@H](OC(=O)/C=C/c2cc(OC)c(OC)c(OC)c2)[C@@H]1OC
+7,Benazepril,C09A,ACE Inhibitors,CCOC(=O)[C@H](CCc1ccccc1)N[C@H]1CCc2ccccc2N(CC(=O)O)C1=O
+10,Captopril,C09A,ACE Inhibitors,C[C@H](CS)C(=O)N1CCC[C@H]1C(=O)O
+11,Cilazapril,C09A,ACE Inhibitors,CCOC(=O)[C@H](CCc1ccccc1)N[C@H]1CCCN2CCC[C@@H](C(=O)O)N2C1=O
+13,Enalapril,C09A,ACE Inhibitors,CCOC(=O)[C@H](CCc1ccccc1)N[C@@H](C)C(=O)N1CCC[C@H]1C(=O)O
+16,Fosinopril,C09A,ACE Inhibitors,CCC(=O)O[C@@H](O[P@](=O)(CCCCc1ccccc1)CC(=O)N1C[C@H](C2CCCCC2)C[C@H]1C(=O)O)C(C)C
+17,Imidapril,C09A,ACE Inhibitors,CCOC(=O)[C@H](CCc1ccccc1)N[C@@H](C)C(=O)N1C(=O)N(C)C[C@H]1C(=O)O
+19,Lisinopril,C09A,ACE Inhibitors,NCCCC[C@H](N[C@@H](CCc1ccccc1)C(=O)O)C(=O)N1CCC[C@H]1C(=O)O
+21,Moexipril,C09A,ACE Inhibitors,CCOC(=O)[C@H](CCc1ccccc1)N[C@@H](C)C(=O)N1Cc2cc(OC)c(OC)cc2C[C@H]1C(=O)O
+23,Perindopril,C09A,ACE Inhibitors,CCC[C@H](N[C@@H](C)C(=O)N1[C@H](C(=O)O)C[C@@H]2CCCC[C@@H]21)C(=O)OCC
+24,Quinapril,C09A,ACE Inhibitors,CCOC(=O)[C@H](CCc1ccccc1)N[C@@H](C)C(=O)N1Cc2ccccc2C[C@H]1C(=O)O.Cl
+25,Ramipril,C09A,ACE Inhibitors,CCOC(=O)[C@H](CCc1ccccc1)N[C@@H](C)C(=O)N1[C@H](C(=O)O)C[C@@H]2CCC[C@@H]21
+27,Spirapril,C09A,ACE Inhibitors,CCOC(=O)[C@H](CCc1ccccc1)N[C@@H](C)C(=O)N1CC2(C[C@H]1C(=O)O)SCCS2
+31,Trandolapril,C09A,ACE Inhibitors,CCOC(=O)[C@H](CCc1ccccc1)N[C@@H](C)C(=O)N1[C@H](C(=O)O)C[C@H]2CCCC[C@@H]21
