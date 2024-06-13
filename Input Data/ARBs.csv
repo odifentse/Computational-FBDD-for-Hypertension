@@ -1,0 +1,11 @@
+,Molecule Name,ATC Code,Class,Canonical SMILES
+2,Olmesartan,C09C,ARBs,CCCc1nc(C(C)(C)O)c(C(=O)O)n1Cc1ccc(-c2ccccc2-c2nnn[nH]2)cc1
+4,Sparsentan,C09C,ARBs,CCCCC1=NC2(CCCC2)C(=O)N1CC1=CC=C(C(COCC)=C1)C1=CC=CC=C1S(=O)(=O)NC1=NOC(C)=C1C
+6,Azilsartan medoxomil,C09C,ARBs,CCOc1nc2cccc(C(=O)OCc3oc(=O)oc3C)c2n1Cc1ccc(-c2ccccc2-c2noc(=O)[nH]2)cc1
+9,Candesartan Cilexetil,C09C,ARBs,CCOc1nc2cccc(C(=O)OC(C)OC(=O)OC3CCCCC3)c2n1Cc1ccc(-c2ccccc2-c2nn[nH]n2)cc1
+14,Eprosartan,C09C,ARBs,CCCCc1ncc(/C=C(\Cc2cccs2)C(=O)O)n1Cc1ccc(C(=O)O)cc1
+18,Irbesartan,C09C,ARBs,CCCCC1=NC2(CCCC2)C(=O)N1Cc1ccc(-c2ccccc2-c2nn[nH]n2)cc1
+20,Losartan,C09C,ARBs,CCCCc1nc(Cl)c(CO)n1Cc1ccc(-c2ccccc2-c2nnn[nH]2)cc1
+22,Olmesartan Medoxomil,C09C,ARBs,CCCc1nc(C(C)(C)O)c(C(=O)OCc2oc(=O)oc2C)n1Cc1ccc(-c2ccccc2-c2nnn[nH]2)cc1
+29,Telmisartan,C09C,ARBs,CCCc1nc2c(C)cc(-c3nc4ccccc4n3C)cc2n1Cc1ccc(-c2ccccc2C(=O)O)cc1
+32,Valsartan,C09C,ARBs,CCCCC(=O)N(Cc1ccc(-c2ccccc2-c2nnn[nH]2)cc1)[C@H](C(=O)O)C(C)C
