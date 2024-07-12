@@ -1,6 +1,9 @@
 # Machine Learning-aided Computational Fragment-based Drug Discovery for Hypertension
 This is a repository for the research titled *"Machine Learning-aided Computational  Fragment-based Design of Small Molecules  for Hypertension Treatment"* by Odifentse Mapula-e Lehasa and Uche Kennedy Chude-Okonkwo (2023)
 
+###To cite this code, please use the following:
+Lehasa, O. M.-. e ., & Chude-Okonkwo, U. A. K. (2024). Computational-FBDD-for-Hypertension: Version 2 (v2.0.0). Zenodo. https://doi.org/10.5281/zenodo.11636007
+
 ![image](https://github.com/odifentse/Computational-FBDD-for-Hypertension/assets/81362965/b5c8d631-42b7-4d40-b109-45f72e535583)
 Figure 1: Proposed Drug Design System Framework (Lehasa and Chude-Okonkwo, 2023)
 
